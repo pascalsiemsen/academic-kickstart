@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the Ruhr-University Bochum. My research interests lie in the fields of social policy, labour markets and voting behaviour. The working title of my dissertation is “Socio-economic Status and Populist Attitudes the Role of the (Welfare) State".
+I am a PhD student at the Ruhr-University Bochum. My research interests lie in the fields of social policy, labour markets and voting behaviour. The working title of my dissertation is “The Causal Influence of Social Policy on Democratic Values and Voting Abstention".
 
