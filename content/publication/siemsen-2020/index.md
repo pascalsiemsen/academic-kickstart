@@ -30,8 +30,7 @@ projects: []
 publishDate: '2020-12-09T16:16:48.955982Z'
 publication_types:
 - '2'
-abstract: '$<$section class=\"abstract\"$><$h2 class=\"abstractTitle text-title my-1\"
-  id=\"d1673e2\"$>$Abstract$<$/h2$><$p$>$Populist, especially far-right populist,
+abstract: 'Populist, especially far-right populist,
   parties have gained votes in recent elections across Europe recently. This observation
   is true for Poland as well. The far-right populist party Law and Justice (PiS, Prawo
   i Sprawiedliwoś)́ won the parliamentary election in 2015. Next to the well-known
@@ -39,7 +38,7 @@ abstract: '$<$section class=\"abstract\"$><$h2 class=\"abstractTitle text-title 
   Did this programme attract voters? The findings of this study lend reason to answer
   the question in the affirmative. The inclusion of social policies usually associated
   with left-wing parties might hence be a path to be explored by other far-right populist
-  parties as well.$<$/p$><$/section$>$'
+  parties as well.'
 publication: '*Polish Political Science Review*'
 doi: 10.2478/ppsr-2020-0006
 ---
