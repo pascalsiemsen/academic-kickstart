@@ -10,7 +10,7 @@ role: Research Assistant / PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Pascal Siemsen
+- name: Ruhr-University Bochum
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -19,12 +19,15 @@ bio: I am a PhD student at the Ruhr-University Bochum. My research interests lie
 
 
 interests:
-- Methods
+- Causal Inference
 - Social Policy
 - Voting Behaviour
 
 education:
   courses:
+  - course: Master in Political Science
+    institution: University of Bremen
+    year: 2016
   - course: Bachelor in Political Science
     institution: University of Mannheim
     year: 2012
