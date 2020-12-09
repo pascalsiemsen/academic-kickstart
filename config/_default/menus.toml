@@ -13,7 +13,10 @@
   #url = "#posts"
   #weight = 20
 
-
+[[main]]
+  name = "Courses"
+  url = "courses/"
+  weight = 50
 
 #[[main]]
  # name = "Projects"
