@@ -29,6 +29,8 @@ design:
   columns: '2'
 ---
 
-- Master Seminar "Modern Causal Analysis in the Social Sciences" (SS20) 
-- Bachelor Tutorial "Multivariate statistische Verfahren" (SS19, SS20)
-- Bachelor Tutorial "Methoden der empirischen Sozialforschung" (WS18,SS19,WS19,WS20)
+| Type | Title | Semester  |
+| --- | --- | --- | --- 
+| Master Seminar | Modern Causal Analysis in the Social Sciences | SS20 | 
+| Bachelor Tutorial | Multivariate statistische Verfahren | SS19, SS20 | 
+| Bachelor Tutorial | Methoden der empirischen Sozialforschung | WS18,SS19,WS19,WS20 | 
