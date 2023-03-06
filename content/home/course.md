@@ -31,6 +31,8 @@ design:
 
 | Type | Title | Semester  |
 | --- | --- | --- | --- 
-| Master Seminar | Modern Causal Analysis in the Social Sciences | SS20 | 
-| Bachelor Tutorial | Multivariate statistische Verfahren | SS19, SS20 | 
-| Bachelor Tutorial | Methoden der empirischen Sozialforschung | WS18,SS19,WS19,WS20 | 
+| Master Lecture |  Research Methods | WS21, WS22 |
+| Master Tutorial |  Research Methods | WS21, WS22 |
+| Master Seminar | Modern Causal Analysis in the Social Sciences | SS20, SS21 | 
+| Bachelor Tutorial | Multivariate Statistical Analysis | SS19, SS20, SS21, SS22 | 
+| Bachelor Tutorial | Methods of Empirical Social Research | WS18,SS19,WS19,WS20 | 
