@@ -14,13 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at the Ruhr-University Bochum. My research interests lie in the fields of social policy, labour markets and voting behaviour. The working title of my dissertation is “The Causal Influence of Social Policy on Democratic Values and Voting Abstention".
+bio: I am a PhD student at the Ruhr-University Bochum. My research interests lie in the fields of social policy, labour markets, political attitudes and voting behaviour. The working title of my dissertation is "Policy for Democracy? The Causal Effect of Labour Market Policy on Trust in Government".
 
 
 
 interests:
 - Causal Inference
 - Social Policy
+- Political Attitudes
 - Voting Behaviour
 
 education:
@@ -69,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the Ruhr-University Bochum. My research interests lie in the fields of social policy, labour markets and voting behaviour. The working title of my dissertation is “The Causal Influence of Social Policy on Democratic Values and Voting Abstention".
+I am a PhD student at the Ruhr-University Bochum. My research interests lie in the fields of social policy, labour markets, political attitudes and voting behaviour The working title of my dissertation is "Policy for Democracy? The Causal Effect of Labour Market Policy on Trust in Government".
 
